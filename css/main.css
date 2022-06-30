@@ -1,0 +1,58 @@
+/* 
+Accent: a7c957
+font-family: 'Noto Nastaliq Urdu', serif;
+font-family: 'Inconsolata', monospace;
+font-family: 'Lateef', cursive;
+*/
+
+.text-d {color: black;}
+.text-l {color: white; }
+.text-accent {color: #a7c957;}
+.text-urdu {font-family: 'Noto Nastaliq Urdu', serif;}
+.text-english {font-family: 'Inconsolata', monospace;}
+.text-arabic {font-family: 'Lateef', cursive;}
+
+.bg-accent {background-color: #a7c957;}
+
+#nav-style
+{
+    border: black 3px solid;
+}
+
+.navbar-item
+{
+    text-decoration: underline;
+}
+
+.spacing-es {margin-top: 25px;}
+.spacing-s {margin-top: 50px;}
+.spacing-m {margin-top: 75px;}
+.spacing-l {margin-top: 100px;}
+
+
+button 
+{
+    background-color: transparent;
+    border: 2px solid #a7c957;
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+
+button:hover
+{
+    background-color: #a7c957;
+}
+
+/* For editing purposes */
+.check-border
+{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.outline-m
+{
+    border: solid black 2px;
+    border-top: 0px;
+}
