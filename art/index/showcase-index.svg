@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="showcase-index.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    inkscape:export-filename="C:\Users\Sadeem\Desktop\bitmap.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -28,18 +28,20 @@
      showgrid="false"
      units="pt"
      inkscape:zoom="0.9814281"
-     inkscape:cx="301.09185"
+     inkscape:cx="197.67113"
      inkscape:cy="228.74829"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g32894"
+     inkscape:current-layer="g43058"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2" />
   <g
@@ -150,15 +152,15 @@
              y="70.571701">بيت العلم</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5438px;line-height:1.25;font-family:'DecoType Thuluth';-inkscape-font-specification:'DecoType Thuluth, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.313596"
-           x="88.105408"
-           y="98.927025"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9593px;line-height:1.25;font-family:'DecoType Thuluth';-inkscape-font-specification:'DecoType Thuluth, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.298984"
+           x="88.106277"
+           y="98.761429"
            id="text25476"><tspan
              sodipodi:role="line"
              id="tspan25474"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5438px;font-family:'DecoType Thuluth';-inkscape-font-specification:'DecoType Thuluth, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a7c957;fill-opacity:1;stroke-width:0.313596"
-             x="88.105408"
-             y="98.927025">قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9593px;font-family:'DecoType Thuluth';-inkscape-font-specification:'DecoType Thuluth, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a7c957;fill-opacity:1;stroke-width:0.298984"
+             x="88.106277"
+             y="98.761429">قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ</tspan></text>
       </g>
     </g>
   </g>
